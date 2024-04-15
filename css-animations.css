@@ -3,6 +3,11 @@
     padding: 20px;
 }
 
+.hover-highlight-card:hover{
+    background-color: yellow;
+    box-shadow: 10px 5px 5px red;
+}
+
 /* Task 2: Animated Navigation Menu */
 .animated-nav-menu ul {
     list-style: none;
