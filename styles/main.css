@@ -1,0 +1,42 @@
+.important {
+       border: 1px rgb(0, 0, 0) solid;
+       font-size: x-large;
+       background-color:rgb(239, 0, 0);
+}
+
+.silly   {
+       color:rgb(49, 247, 5);
+}
+
+body {
+       background-color:rgb(255, 255, 255)       
+}
+
+body {
+       font-family: Arial, Helvetica, sans-serif;
+     }
+     
+     h1 {
+       color: #ff00a2;
+       font-size: 2em;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       border-bottom: 10px dotted #750075;
+     }
+     
+     h2 {
+       font-size: 1.5em
+     }
+     
+     .job-title {
+       color: #ffa2006c;
+       font-weight: bold;
+     }
+     
+     a:link, a:visited {
+       color: #1900ff;
+     }
+     
+     a:hover {
+       color:green
+       
+     }
