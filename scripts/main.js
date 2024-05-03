@@ -33,19 +33,4 @@ for (let i = 1; i <= 10; i++) {
   for (let i = 1; i <= 10; i++) {
     console.log(factorial(i));
   }
-  // Create an array of CSS color values
-const colors = ['maroon', 'white', 'yellow', 'green', 'teal', 'indigo', 'violet'];
-
-// Create an unordered list
-const list = document.createElement('ul');
-
-// Add a list item for each color
-colors.forEach(color => {
-  const item = document.createElement('li');
-  item.innerText = color;
-  item.style.color = color;
-  list.appendChild(item);
-});
-
-// Add the list to the end of the body
-document.body.appendChild(list);
+  
